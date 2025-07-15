@@ -15,12 +15,11 @@ Here are two small React apps I deployed recently to practice and showcase progr
 ---
 
 ### 🛠️ **Tech I’ve worked with recently:**
-- Angular
-- Node.js
-- Java
-- MongoDB / MySQL
-- React (learning)
-- AWS Cloud (learning)
+- Angular  
+- AWS Cloud (learning)  
+- MongoDB / MySQL  
+- Node.js  
+- React (learning)  
 
 ---
 

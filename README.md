@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**olivero-jav/olivero-jav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer with 3+ years of experience, mainly working with Angular and Node.js.  
 
-Here are some ideas to get you started:
+🌱 Currently upskilling in React and working toward the AWS Cloud Practitioner certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+Here are two small React apps I deployed recently to practice and showcase progress:
+
+- 🔗 [Country Quiz](https://country-quiz-olivero.vercel.app/)  
+- 🔗 [Coffee Listing](https://simple-coffee-listing-olivero.vercel.app/)
+
+---
+
+### 🛠️ **Tech I’ve worked with recently:**
+- Angular
+- Node.js
+- Java
+- MongoDB / MySQL
+- React (learning)
+- AWS Cloud (learning)
+
+---
+
+📫 Feel free to reach out: olivero.jav@gmail.com  

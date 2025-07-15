@@ -18,7 +18,8 @@ Here are two small React apps I deployed recently to practice and showcase progr
 - Angular  
 - AWS Cloud (learning)  
 - MongoDB / MySQL  
-- Node.js  
+- Node.js
+- Python
 - React (learning)  
 
 ---

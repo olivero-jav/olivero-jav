@@ -7,7 +7,7 @@ I'm a full-stack software engineer with 3+ years of experience, mainly working w
 ---
 
 ### 🚀 Projects
-Here are two small React apps I deployed recently to practice and showcase progress:
+Here are two small apps I deployed recently to practice and showcase progress:
 
 - 🔗 [Country Quiz](https://country-quiz-olivero.vercel.app/)  
 - 🔗 [Coffee Listing](https://simple-coffee-listing-olivero.vercel.app/)

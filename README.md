@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm a full-stack software engineer with 3+ years of experience, mainly working with Angular and Node.js.  
+I'm a full-stack software engineer with 4 years of experience, mainly working with Angular and Node.js.  
 
-🌱 Currently upskilling in React and working toward the AWS Cloud Practitioner certification.
+🌱 Currently working toward the AWS Cloud Practitioner certification.
 
 ---
 
 ### 🚀 Projects
-Here are two small apps I deployed recently to practice and showcase progress:
+Here are two small demos I deployed recently:
 
 - 🔗 [Country Quiz](https://country-quiz-olivero.vercel.app/)  
 - 🔗 [Coffee Listing](https://simple-coffee-listing-olivero.vercel.app/)
@@ -20,7 +20,9 @@ Here are two small apps I deployed recently to practice and showcase progress:
 - MongoDB / MySQL  
 - Node.js
 - Python
+- Prisma
 - React
+- Typescript
 
 ---
 

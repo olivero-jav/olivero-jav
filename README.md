@@ -15,7 +15,8 @@ Here's a small React demo:
 
 ### 🛠️ **Tech I’ve worked with recently:**
 - Angular  
-- AWS Cloud 
+- AWS Cloud
+- Kotlin
 - MongoDB / MySQL  
 - Node.js
 - Python

@@ -6,13 +6,6 @@ I'm a full-stack software engineer with 4+ years of experience, mainly working w
 
 ---
 
-### 🚀 Projects
-Here's a small React demo:
-
-- 🔗 [Country Quiz](https://country-quiz-olivero.vercel.app/)  
-
----
-
 ### 🛠️ **Tech I’ve worked with recently:**
 - Angular  
 - AWS Cloud
@@ -25,6 +18,3 @@ Here's a small React demo:
 - React Native
 - Typescript
 
----
-
-📫 Feel free to reach out: olivero.jav@gmail.com  
